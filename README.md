@@ -1,20 +1,20 @@
-dev-test
+dev-captcha
 ===
 
 CAPTCHA for actual programmers against script-kiddies.
 
-Using the test
+Answering the dev-captcha
 ---
 
 1. Fork this on Github.
-2. Implement the test on your fork.
+2. Implement it on your fork.
 
 Guidelines
 ---
 
-Here are the guidelines for this test.
+Here are the guidelines:
 
-1. You can use any programming platform (ie. php, python, ruby, node.js, c, bash, etc).
+1. You can use any programming platform (ie. java, php, python, ruby, node.js, c, bash, etc).
 2. Contain the runtime. The checker will not install PHP and Apache on their host machine. Eew! Use tools like docker or vagrant.
 3. Ask questions if there are things that are unclear.
 4. You're not restricted from using external resources like Google and StackOverflow.
