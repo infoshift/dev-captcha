@@ -1,7 +1,7 @@
 dev-test
 ===
 
-Infoshift developer test.
+CAPTCHA for actual programmers against script-kiddies.
 
 Using the test
 ---
