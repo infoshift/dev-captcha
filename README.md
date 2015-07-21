@@ -72,4 +72,7 @@ Part 5: Dynamic Filters
 
 > Functions are first-class citizens.
 
-In this part, you'll be writing a function that dynamically filters the members.
+In this part, you'll be writing a filter function that uses functions as arguments. That's more than a hint. :)
+
+- You'll be implementing an all-purpose `filter` function.
+- Languages usually have this out-of-the-box. You'll be implementing one here, not use it. >:)
