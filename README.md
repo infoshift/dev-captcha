@@ -33,7 +33,7 @@ Now that you've read the file, it's now time to parse the file.
 If you check the contents of the file, you'll notice that it's in JSON.
 Parse it so you can use them within the program.
 
-- You don't need to make a O(1) state-machine JSONParser library.
+- You don't need to make an O(1) state-machine JSONParser library.
 - `import json`. Just exhibit that you know how to use re-use libraries.
 
 Part 3: Filtering by location
