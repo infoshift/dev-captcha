@@ -3,6 +3,12 @@ dev-test
 
 Infoshift developer test.
 
+Using the test
+---
+
+1. Fork this on Github.
+2. Implement the test on your fork.
+
 Guidelines
 ---
 
@@ -15,7 +21,7 @@ Here are the guidelines for this test.
 5. Although you're not restricted from using external resources, don't just go copy-and-pasting snippets of code. Take the time to learn it.
 6. Document your code. Explain the how and why.
 
-Part 1: Program Input
+Part 1: Programs that have inputs
 ---
 
 Create a program that reads `team.json`.
@@ -25,7 +31,7 @@ There are a couple of ways to accomplish this, here are some examples:
 - create an http server that serves the file and consume the file like an http response.
 - streaming inputs: `$ cat team.json | myprogram.py --`.
 
-Part 2: Useful Libraries
+Part 2: Useful libraries
 ---
 
 Now that you've read the file, it's now time to parse the file.
