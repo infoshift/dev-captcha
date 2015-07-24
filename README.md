@@ -82,3 +82,8 @@ In this part, you'll be writing a filter function that uses functions as argumen
 
 - You'll be implementing an all-purpose `filter` function.
 - Languages usually have this out-of-the-box. You'll be implementing one here, not use it. >:)
+
+Once you're done
+---
+
+Send us an email at jobs <at> infoshiftinc.com and let us know that you've finished the developer captcha. :)
